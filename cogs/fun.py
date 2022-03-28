@@ -1,10 +1,18 @@
 import discord
 
 from discord.ext import commands
+from discord.commands import Option
 
 import wikipedia, asyncio, random, time, datetime
 
 from aiohttp import ClientSession
+
+import random
+
+from random import random
+
+
+
 
 start_time = time.time()
 
